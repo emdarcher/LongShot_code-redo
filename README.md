@@ -1,4 +1,5 @@
 LongShot_code-redo
 ==================
 
-redo of the code that runs LongShot
+redo of the Java code that runs LongShot,
+the 2013 robot of FIRST team 4159.
