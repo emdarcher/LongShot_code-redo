@@ -9,3 +9,5 @@ DERP
 we can add it to the master branch if there are no bugs or conflicts
 */
 
+//how do I use the branch thing? Can you explain how to use github on 
+//wednesday or something?
