@@ -13,3 +13,9 @@ An integrated development environment (IDE) or interactive development environme
 An IDE normally consists of a source code editor, build automation tools and a debugger.
 
 in netbeans ide, use the Team>git area to connect ot github from netbeans
+
+
+We will be using the practiceRobotCode netBeans project in netBeans IDE to develop the code
+please edit it and make changes in your separate branches before merging
+
+this will have code for the robot and the needed files with it.
