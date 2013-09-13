@@ -1,3 +1,14 @@
+/*
+
+  THIS WILL BE FOR THE FINAL WORKING CODE
+  working on the code project will be done in the netbeans project I believe
+
+*/
+
+
+
+
+
 //is this the right file format?
 //i do not know.
 //.          ._.
